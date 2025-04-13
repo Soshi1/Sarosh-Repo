@@ -11,5 +11,9 @@ class Program
 
         Console.WriteLine(number);
         Console.WriteLine(name);
+        int abc = 20;
+        float cd = 30.56f;
+        Console.WriteLine(abc);
+        Console.WriteLine(cd);
     }
 }
